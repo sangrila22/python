@@ -8,8 +8,8 @@ print()
 
 # create # [ ] flying bird character art 
 print("_          _")
-print(" \        /")
-print("  \  . . / ")
+print(r" \        /")
+print(r"  \  . . / ")
 print("      v     ")
 
 # [ ] capital letter "E" character art
